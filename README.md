@@ -27,7 +27,7 @@
   <a href="https://linkedin.com/in/tongfeig" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.notion.so/Design-Project-8bebf34995d0433e9e746c83e84ac9e0" target="_blank">
+  <a href="[https://www.notion.so/Design-Project-8bebf34995d0433e9e746c83e84ac9e0](https://jet-raccoon-e63.notion.site/Tongfei-Guo-Felicia-09416f6ed4624219911f133589f2c73f)" target="_blank"> 
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
